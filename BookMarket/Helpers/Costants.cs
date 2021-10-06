@@ -169,6 +169,9 @@ namespace BookMarket
         //1 = Solo bottone carica; 2 = Solo bottone cerca; 3 = Nessun bottone
         public static int Fase()
         {
+
+            return 2;
+
             DateTime currentDate = Utility.italianTime();
 
 

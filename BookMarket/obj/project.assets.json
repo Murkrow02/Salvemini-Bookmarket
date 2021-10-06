@@ -7749,11 +7749,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Marco\\Desktop\\Coding\\Repos\\Salvemini\\BookMarket\\BookMarket\\BookMarket.csproj",
+      "projectUniqueName": "C:\\Users\\Marco\\Desktop\\Coding\\Repos\\Salvemini-Bookmarket\\BookMarket\\BookMarket.csproj",
       "projectName": "BookMarket",
-      "projectPath": "C:\\Users\\Marco\\Desktop\\Coding\\Repos\\Salvemini\\BookMarket\\BookMarket\\BookMarket.csproj",
+      "projectPath": "C:\\Users\\Marco\\Desktop\\Coding\\Repos\\Salvemini-Bookmarket\\BookMarket\\BookMarket.csproj",
       "packagesPath": "C:\\Users\\Marco\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Marco\\Desktop\\Coding\\Repos\\Salvemini\\BookMarket\\BookMarket\\obj\\",
+      "outputPath": "C:\\Users\\Marco\\Desktop\\Coding\\Repos\\Salvemini-Bookmarket\\BookMarket\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

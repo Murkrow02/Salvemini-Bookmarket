@@ -20,37 +20,37 @@ modificando il file MSBuild. Per altre informazioni su questo argomento, vedere 
       <publishTime>04/14/2020 16:10:48</publishTime>
     </File>
     <File Include="BookMarket.deps.json">
-      <publishTime>08/31/2021 13:13:34</publishTime>
+      <publishTime>10/06/2021 12:59:43</publishTime>
     </File>
     <File Include="BookMarket.dll">
-      <publishTime>08/31/2021 13:13:29</publishTime>
+      <publishTime>10/06/2021 12:58:23</publishTime>
     </File>
     <File Include="BookMarket.exe">
-      <publishTime>08/31/2021 13:13:29</publishTime>
+      <publishTime>10/06/2021 12:58:23</publishTime>
     </File>
     <File Include="BookMarket.pdb">
-      <publishTime>08/31/2021 13:13:29</publishTime>
+      <publishTime>10/06/2021 12:58:23</publishTime>
     </File>
     <File Include="BookMarket.runtimeconfig.json">
-      <publishTime>08/26/2021 21:17:39</publishTime>
+      <publishTime>10/06/2021 12:58:24</publishTime>
     </File>
     <File Include="BookMarket.Views.dll">
-      <publishTime>08/31/2021 13:13:30</publishTime>
+      <publishTime>10/06/2021 12:58:23</publishTime>
     </File>
     <File Include="BookMarket.Views.pdb">
-      <publishTime>08/31/2021 13:13:30</publishTime>
+      <publishTime>10/06/2021 12:58:23</publishTime>
     </File>
     <File Include="BouncyCastle.Crypto.dll">
-      <publishTime>08/02/2019 01:50:10</publishTime>
+      <publishTime>02/08/2019 01:50:10</publishTime>
     </File>
     <File Include="Castle.Core.dll">
-      <publishTime>05/04/2019 01:50:28</publishTime>
+      <publishTime>04/05/2019 01:50:28</publishTime>
     </File>
     <File Include="Fare.dll">
-      <publishTime>12/04/2018 15:04:20</publishTime>
+      <publishTime>04/12/2018 15:04:20</publishTime>
     </File>
     <File Include="MailKit.dll">
-      <publishTime>11/07/2020 17:03:20</publishTime>
+      <publishTime>07/11/2020 17:03:20</publishTime>
     </File>
     <File Include="Microsoft.Bcl.AsyncInterfaces.dll">
       <publishTime>04/14/2020 22:39:12</publishTime>
@@ -116,10 +116,10 @@ modificando il file MSBuild. Per altre informazioni su questo argomento, vedere 
       <publishTime>04/30/2019 00:04:14</publishTime>
     </File>
     <File Include="MimeKit.dll">
-      <publishTime>11/07/2020 16:35:58</publishTime>
+      <publishTime>07/11/2020 16:35:58</publishTime>
     </File>
     <File Include="Newtonsoft.Json.dll">
-      <publishTime>09/11/2019 00:56:44</publishTime>
+      <publishTime>11/09/2019 00:56:44</publishTime>
     </File>
     <File Include="RandomDataGenerator.dll">
       <publishTime>06/24/2020 19:47:16</publishTime>
@@ -134,13 +134,13 @@ modificando il file MSBuild. Per altre informazioni su questo argomento, vedere 
       <publishTime>09/26/2019 20:43:26</publishTime>
     </File>
     <File Include="runtimes/win-arm64/native/sni.dll">
-      <publishTime>12/07/2017 13:24:24</publishTime>
+      <publishTime>07/12/2017 13:24:24</publishTime>
     </File>
     <File Include="runtimes/win-x64/native/sni.dll">
-      <publishTime>12/07/2017 13:24:22</publishTime>
+      <publishTime>07/12/2017 13:24:22</publishTime>
     </File>
     <File Include="runtimes/win-x86/native/sni.dll">
-      <publishTime>12/07/2017 13:24:22</publishTime>
+      <publishTime>07/12/2017 13:24:22</publishTime>
     </File>
     <File Include="runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll">
       <publishTime>05/15/2018 15:29:40</publishTime>
@@ -167,175 +167,175 @@ modificando il file MSBuild. Per altre informazioni su questo argomento, vedere 
       <publishTime>05/15/2018 15:29:44</publishTime>
     </File>
     <File Include="TimeZoneConverter.dll">
-      <publishTime>08/04/2021 16:27:34</publishTime>
+      <publishTime>04/08/2021 16:27:34</publishTime>
     </File>
     <File Include="web.config">
-      <publishTime>08/31/2021 13:13:34</publishTime>
+      <publishTime>10/06/2021 12:59:43</publishTime>
     </File>
     <File Include="wwwroot/crashes/Placeholder.txt">
-      <publishTime>08/12/2020 17:20:57</publishTime>
+      <publishTime>12/08/2020 17:20:57</publishTime>
     </File>
     <File Include="wwwroot/crashes/SaveUser.txt">
-      <publishTime>08/12/2020 17:20:57</publishTime>
+      <publishTime>12/08/2020 17:20:57</publishTime>
     </File>
     <File Include="wwwroot/css/FontAwesome.css">
-      <publishTime>08/12/2020 17:20:57</publishTime>
+      <publishTime>12/08/2020 17:20:57</publishTime>
     </File>
     <File Include="wwwroot/css/LoadingSpinner.css">
-      <publishTime>08/12/2020 17:20:57</publishTime>
+      <publishTime>12/08/2020 17:20:57</publishTime>
     </File>
     <File Include="wwwroot/css/materialize.min.css">
-      <publishTime>08/12/2020 17:20:57</publishTime>
+      <publishTime>12/08/2020 17:20:57</publishTime>
     </File>
     <File Include="wwwroot/css/Select2.css">
-      <publishTime>08/12/2020 17:20:57</publishTime>
+      <publishTime>12/08/2020 17:20:57</publishTime>
     </File>
     <File Include="wwwroot/css/site.css">
-      <publishTime>08/12/2020 17:20:57</publishTime>
+      <publishTime>12/08/2020 17:20:57</publishTime>
     </File>
     <File Include="wwwroot/css/uikit.css">
-      <publishTime>08/12/2020 17:20:57</publishTime>
+      <publishTime>12/08/2020 17:20:57</publishTime>
     </File>
     <File Include="wwwroot/css/uikit.min.css">
-      <publishTime>08/12/2020 17:20:57</publishTime>
+      <publishTime>12/08/2020 17:20:57</publishTime>
     </File>
     <File Include="wwwroot/fonts/Montserrat-Bold.ttf">
-      <publishTime>08/12/2020 17:20:57</publishTime>
+      <publishTime>12/08/2020 17:20:57</publishTime>
     </File>
     <File Include="wwwroot/fonts/Montserrat-Regular.ttf">
-      <publishTime>08/12/2020 17:20:57</publishTime>
+      <publishTime>12/08/2020 17:20:57</publishTime>
     </File>
     <File Include="wwwroot/fonts/SF-Compact-Rounded-Bold.otf">
-      <publishTime>08/12/2020 17:20:57</publishTime>
+      <publishTime>12/08/2020 17:20:57</publishTime>
     </File>
     <File Include="wwwroot/fonts/SF-Compact-Rounded-Regular.ttf">
-      <publishTime>08/12/2020 17:20:57</publishTime>
+      <publishTime>12/08/2020 17:20:57</publishTime>
     </File>
     <File Include="wwwroot/fonts/SFCompactText-Bold.otf">
-      <publishTime>08/12/2020 17:20:57</publishTime>
+      <publishTime>12/08/2020 17:20:57</publishTime>
     </File>
     <File Include="wwwroot/fonts/SFCompactText-Regular.otf">
-      <publishTime>08/12/2020 17:20:57</publishTime>
+      <publishTime>12/08/2020 17:20:57</publishTime>
     </File>
     <File Include="wwwroot/fonts/SFCompactText-Semibold.otf">
-      <publishTime>08/12/2020 17:20:57</publishTime>
+      <publishTime>12/08/2020 17:20:57</publishTime>
     </File>
     <File Include="wwwroot/images/appStoreBadge.svg">
-      <publishTime>08/12/2020 17:20:57</publishTime>
+      <publishTime>12/08/2020 17:20:57</publishTime>
     </File>
     <File Include="wwwroot/images/istruzioni.png">
-      <publishTime>08/12/2020 17:20:57</publishTime>
+      <publishTime>12/08/2020 17:20:57</publishTime>
     </File>
     <File Include="wwwroot/images/logoBianco.png">
-      <publishTime>08/12/2020 17:20:57</publishTime>
+      <publishTime>12/08/2020 17:20:57</publishTime>
     </File>
     <File Include="wwwroot/images/logoNuovo.png">
-      <publishTime>08/12/2020 17:20:57</publishTime>
+      <publishTime>12/08/2020 17:20:57</publishTime>
     </File>
     <File Include="wwwroot/images/playStoreBadge.svg">
-      <publishTime>08/12/2020 17:20:57</publishTime>
+      <publishTime>12/08/2020 17:20:57</publishTime>
     </File>
     <File Include="wwwroot/images/users/2106.png">
-      <publishTime>08/12/2020 17:20:57</publishTime>
+      <publishTime>12/08/2020 17:20:57</publishTime>
     </File>
     <File Include="wwwroot/images/users/Placeholder.txt">
-      <publishTime>08/12/2020 17:20:57</publishTime>
+      <publishTime>12/08/2020 17:20:57</publishTime>
     </File>
     <File Include="wwwroot/js/Select2.js">
-      <publishTime>08/12/2020 17:20:57</publishTime>
+      <publishTime>12/08/2020 17:20:57</publishTime>
     </File>
     <File Include="wwwroot/js/site.js">
       <publishTime>08/13/2021 16:50:08</publishTime>
     </File>
     <File Include="wwwroot/js/SweetAlert.js">
-      <publishTime>08/12/2020 17:20:57</publishTime>
+      <publishTime>12/08/2020 17:20:57</publishTime>
     </File>
     <File Include="wwwroot/js/uikit-icons.js">
-      <publishTime>08/12/2020 17:20:57</publishTime>
+      <publishTime>12/08/2020 17:20:57</publishTime>
     </File>
     <File Include="wwwroot/js/uikit.js">
-      <publishTime>08/12/2020 17:20:57</publishTime>
+      <publishTime>12/08/2020 17:20:57</publishTime>
     </File>
     <File Include="wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js">
-      <publishTime>08/12/2020 17:20:57</publishTime>
+      <publishTime>12/08/2020 17:20:57</publishTime>
     </File>
     <File Include="wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js">
-      <publishTime>08/12/2020 17:20:57</publishTime>
+      <publishTime>12/08/2020 17:20:57</publishTime>
     </File>
     <File Include="wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt">
-      <publishTime>08/12/2020 17:20:57</publishTime>
+      <publishTime>12/08/2020 17:20:57</publishTime>
     </File>
     <File Include="wwwroot/lib/jquery-validation/dist/additional-methods.js">
-      <publishTime>08/12/2020 17:20:57</publishTime>
+      <publishTime>12/08/2020 17:20:57</publishTime>
     </File>
     <File Include="wwwroot/lib/jquery-validation/dist/additional-methods.min.js">
-      <publishTime>08/12/2020 17:20:57</publishTime>
+      <publishTime>12/08/2020 17:20:57</publishTime>
     </File>
     <File Include="wwwroot/lib/jquery-validation/dist/jquery.validate.js">
-      <publishTime>08/12/2020 17:20:57</publishTime>
+      <publishTime>12/08/2020 17:20:57</publishTime>
     </File>
     <File Include="wwwroot/lib/jquery-validation/dist/jquery.validate.min.js">
-      <publishTime>08/12/2020 17:20:57</publishTime>
+      <publishTime>12/08/2020 17:20:57</publishTime>
     </File>
     <File Include="wwwroot/lib/jquery-validation/LICENSE.md">
-      <publishTime>08/12/2020 17:20:57</publishTime>
+      <publishTime>12/08/2020 17:20:57</publishTime>
     </File>
     <File Include="wwwroot/lib/jquery/dist/jquery.js">
-      <publishTime>08/12/2020 17:20:57</publishTime>
+      <publishTime>12/08/2020 17:20:57</publishTime>
     </File>
     <File Include="wwwroot/lib/jquery/dist/jquery.min.js">
-      <publishTime>08/12/2020 17:20:57</publishTime>
+      <publishTime>12/08/2020 17:20:57</publishTime>
     </File>
     <File Include="wwwroot/lib/jquery/dist/jquery.min.map">
-      <publishTime>08/12/2020 17:20:57</publishTime>
+      <publishTime>12/08/2020 17:20:57</publishTime>
     </File>
     <File Include="wwwroot/lib/jquery/LICENSE.txt">
-      <publishTime>08/12/2020 17:20:57</publishTime>
+      <publishTime>12/08/2020 17:20:57</publishTime>
     </File>
     <File Include="wwwroot/webfonts/fa-brands-400.eot">
-      <publishTime>08/12/2020 17:20:57</publishTime>
+      <publishTime>12/08/2020 17:20:57</publishTime>
     </File>
     <File Include="wwwroot/webfonts/fa-brands-400.svg">
-      <publishTime>08/12/2020 17:20:57</publishTime>
+      <publishTime>12/08/2020 17:20:57</publishTime>
     </File>
     <File Include="wwwroot/webfonts/fa-brands-400.ttf">
-      <publishTime>08/12/2020 17:20:57</publishTime>
+      <publishTime>12/08/2020 17:20:57</publishTime>
     </File>
     <File Include="wwwroot/webfonts/fa-brands-400.woff">
-      <publishTime>08/12/2020 17:20:57</publishTime>
+      <publishTime>12/08/2020 17:20:57</publishTime>
     </File>
     <File Include="wwwroot/webfonts/fa-brands-400.woff2">
-      <publishTime>08/12/2020 17:20:57</publishTime>
+      <publishTime>12/08/2020 17:20:57</publishTime>
     </File>
     <File Include="wwwroot/webfonts/fa-regular-400.eot">
-      <publishTime>08/12/2020 17:20:57</publishTime>
+      <publishTime>12/08/2020 17:20:57</publishTime>
     </File>
     <File Include="wwwroot/webfonts/fa-regular-400.svg">
-      <publishTime>08/12/2020 17:20:57</publishTime>
+      <publishTime>12/08/2020 17:20:57</publishTime>
     </File>
     <File Include="wwwroot/webfonts/fa-regular-400.ttf">
-      <publishTime>08/12/2020 17:20:57</publishTime>
+      <publishTime>12/08/2020 17:20:57</publishTime>
     </File>
     <File Include="wwwroot/webfonts/fa-regular-400.woff">
-      <publishTime>08/12/2020 17:20:57</publishTime>
+      <publishTime>12/08/2020 17:20:57</publishTime>
     </File>
     <File Include="wwwroot/webfonts/fa-regular-400.woff2">
-      <publishTime>08/12/2020 17:20:57</publishTime>
+      <publishTime>12/08/2020 17:20:57</publishTime>
     </File>
     <File Include="wwwroot/webfonts/fa-solid-900.eot">
-      <publishTime>08/12/2020 17:20:57</publishTime>
+      <publishTime>12/08/2020 17:20:57</publishTime>
     </File>
     <File Include="wwwroot/webfonts/fa-solid-900.svg">
-      <publishTime>08/12/2020 17:20:57</publishTime>
+      <publishTime>12/08/2020 17:20:57</publishTime>
     </File>
     <File Include="wwwroot/webfonts/fa-solid-900.ttf">
-      <publishTime>08/12/2020 17:20:57</publishTime>
+      <publishTime>12/08/2020 17:20:57</publishTime>
     </File>
     <File Include="wwwroot/webfonts/fa-solid-900.woff">
-      <publishTime>08/12/2020 17:20:57</publishTime>
+      <publishTime>12/08/2020 17:20:57</publishTime>
     </File>
     <File Include="wwwroot/webfonts/fa-solid-900.woff2">
-      <publishTime>08/12/2020 17:20:57</publishTime>
+      <publishTime>12/08/2020 17:20:57</publishTime>
     </File>
   </ItemGroup>
 </Project>

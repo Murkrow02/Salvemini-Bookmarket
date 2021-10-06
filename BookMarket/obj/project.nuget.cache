@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Mq0piF3IbpyqeL3ynyaMZGVSnNWZdMiy29yz1MxMUV6cK6c92lIAx3gekxsIwkyJld706wJnuv3IeKbO3V3Y7Q==",
+  "dgSpecHash": "YhcGP2Bcwp50UzsjEqhHbwgHmllqFxRr911PyJ7mxFgoucsE2hp5UbRFwuPlt+zYJ5sJo9w9uMmdpBJ+ySQ6xQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Marco\\Desktop\\Coding\\Repos\\Salvemini\\BookMarket\\BookMarket\\BookMarket.csproj",
+  "projectFilePath": "C:\\Users\\Marco\\Desktop\\Coding\\Repos\\Salvemini-Bookmarket\\BookMarket\\BookMarket.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Marco\\.nuget\\packages\\bcrypt.net-next\\4.0.0\\bcrypt.net-next.4.0.0.nupkg.sha512",
     "C:\\Users\\Marco\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
